@@ -1,5 +1,5 @@
 # 💫 About Me:
-Analista de ciberseguridad y desarrollador de software
+Cybersecurity Analyst and Software Developer
 
 
 ## 🌐 Socials:
